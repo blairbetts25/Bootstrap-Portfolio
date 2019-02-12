@@ -73,4 +73,20 @@
            overflow: auto;
            line-height: 1.5;
        }
-   
+       .portfolio-image{
+        position: relative;
+        text-align: center;
+        color: white;
+        float: left;
+        margin: auto;
+        width: 200px;
+         height: auto; 
+         /* border: #4aaaa5;
+         border-style: solid; */
+         padding-right: 10px;
+         padding-bottom: 10px;
+       
+      }
+      .Portfolio{
+          margin-top: 150px;
+      }
